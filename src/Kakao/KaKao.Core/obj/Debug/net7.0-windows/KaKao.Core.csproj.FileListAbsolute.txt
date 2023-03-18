@@ -1,0 +1,12 @@
+C:\Users\PCY\Downloads\kakaotalk-main (1)\kakaotalk-main\src\Kakao\KaKao.Core\bin\Debug\net7.0-windows\KaKao.Core.deps.json
+C:\Users\PCY\Downloads\kakaotalk-main (1)\kakaotalk-main\src\Kakao\KaKao.Core\bin\Debug\net7.0-windows\KaKao.Core.dll
+C:\Users\PCY\Downloads\kakaotalk-main (1)\kakaotalk-main\src\Kakao\KaKao.Core\bin\Debug\net7.0-windows\KaKao.Core.pdb
+C:\Users\PCY\Downloads\kakaotalk-main (1)\kakaotalk-main\src\Kakao\KaKao.Core\obj\Debug\net7.0-windows\KaKao.Core.csproj.AssemblyReference.cache
+C:\Users\PCY\Downloads\kakaotalk-main (1)\kakaotalk-main\src\Kakao\KaKao.Core\obj\Debug\net7.0-windows\KaKao.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PCY\Downloads\kakaotalk-main (1)\kakaotalk-main\src\Kakao\KaKao.Core\obj\Debug\net7.0-windows\KaKao.Core.AssemblyInfoInputs.cache
+C:\Users\PCY\Downloads\kakaotalk-main (1)\kakaotalk-main\src\Kakao\KaKao.Core\obj\Debug\net7.0-windows\KaKao.Core.AssemblyInfo.cs
+C:\Users\PCY\Downloads\kakaotalk-main (1)\kakaotalk-main\src\Kakao\KaKao.Core\obj\Debug\net7.0-windows\KaKao.Core.csproj.CoreCompileInputs.cache
+C:\Users\PCY\Downloads\kakaotalk-main (1)\kakaotalk-main\src\Kakao\KaKao.Core\obj\Debug\net7.0-windows\KaKao.Core.dll
+C:\Users\PCY\Downloads\kakaotalk-main (1)\kakaotalk-main\src\Kakao\KaKao.Core\obj\Debug\net7.0-windows\refint\KaKao.Core.dll
+C:\Users\PCY\Downloads\kakaotalk-main (1)\kakaotalk-main\src\Kakao\KaKao.Core\obj\Debug\net7.0-windows\KaKao.Core.pdb
+C:\Users\PCY\Downloads\kakaotalk-main (1)\kakaotalk-main\src\Kakao\KaKao.Core\obj\Debug\net7.0-windows\ref\KaKao.Core.dll
