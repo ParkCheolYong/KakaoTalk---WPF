@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PCY\\Downloads\\kakaotalk-main (1)\\kakaotalk-main\\src\\Kakao\\Kakao.Forms\\Kakao.Forms.csproj": {}
+    "C:\\Users\\PCY\\Desktop\\박철용\\Kakaotalk - WPF\\KakaoTalk-WPF\\src\\Kakao\\Kakao.Forms\\Kakao.Forms.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PCY\\Downloads\\kakaotalk-main (1)\\kakaotalk-main\\src\\Kakao\\KaKao.Core\\KaKao.Core.csproj": {
+    "C:\\Users\\PCY\\Desktop\\박철용\\Kakaotalk - WPF\\KakaoTalk-WPF\\src\\Kakao\\Kakao.Core\\Kakao.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PCY\\Downloads\\kakaotalk-main (1)\\kakaotalk-main\\src\\Kakao\\KaKao.Core\\KaKao.Core.csproj",
-        "projectName": "KaKao.Core",
-        "projectPath": "C:\\Users\\PCY\\Downloads\\kakaotalk-main (1)\\kakaotalk-main\\src\\Kakao\\KaKao.Core\\KaKao.Core.csproj",
+        "projectUniqueName": "C:\\Users\\PCY\\Desktop\\박철용\\Kakaotalk - WPF\\KakaoTalk-WPF\\src\\Kakao\\Kakao.Core\\Kakao.Core.csproj",
+        "projectName": "Kakao.Core",
+        "projectPath": "C:\\Users\\PCY\\Desktop\\박철용\\Kakaotalk - WPF\\KakaoTalk-WPF\\src\\Kakao\\Kakao.Core\\Kakao.Core.csproj",
         "packagesPath": "C:\\Users\\PCY\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PCY\\Downloads\\kakaotalk-main (1)\\kakaotalk-main\\src\\Kakao\\KaKao.Core\\obj\\",
+        "outputPath": "C:\\Users\\PCY\\Desktop\\박철용\\Kakaotalk - WPF\\KakaoTalk-WPF\\src\\Kakao\\Kakao.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -65,14 +65,14 @@
         }
       }
     },
-    "C:\\Users\\PCY\\Downloads\\kakaotalk-main (1)\\kakaotalk-main\\src\\Kakao\\Kakao.Forms\\Kakao.Forms.csproj": {
+    "C:\\Users\\PCY\\Desktop\\박철용\\Kakaotalk - WPF\\KakaoTalk-WPF\\src\\Kakao\\Kakao.Forms\\Kakao.Forms.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PCY\\Downloads\\kakaotalk-main (1)\\kakaotalk-main\\src\\Kakao\\Kakao.Forms\\Kakao.Forms.csproj",
+        "projectUniqueName": "C:\\Users\\PCY\\Desktop\\박철용\\Kakaotalk - WPF\\KakaoTalk-WPF\\src\\Kakao\\Kakao.Forms\\Kakao.Forms.csproj",
         "projectName": "Kakao.Forms",
-        "projectPath": "C:\\Users\\PCY\\Downloads\\kakaotalk-main (1)\\kakaotalk-main\\src\\Kakao\\Kakao.Forms\\Kakao.Forms.csproj",
+        "projectPath": "C:\\Users\\PCY\\Desktop\\박철용\\Kakaotalk - WPF\\KakaoTalk-WPF\\src\\Kakao\\Kakao.Forms\\Kakao.Forms.csproj",
         "packagesPath": "C:\\Users\\PCY\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PCY\\Downloads\\kakaotalk-main (1)\\kakaotalk-main\\src\\Kakao\\Kakao.Forms\\obj\\",
+        "outputPath": "C:\\Users\\PCY\\Desktop\\박철용\\Kakaotalk - WPF\\KakaoTalk-WPF\\src\\Kakao\\Kakao.Forms\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -92,8 +92,8 @@
           "net7.0-windows7.0": {
             "targetAlias": "net7.0-windows",
             "projectReferences": {
-              "C:\\Users\\PCY\\Downloads\\kakaotalk-main (1)\\kakaotalk-main\\src\\Kakao\\KaKao.Core\\KaKao.Core.csproj": {
-                "projectPath": "C:\\Users\\PCY\\Downloads\\kakaotalk-main (1)\\kakaotalk-main\\src\\Kakao\\KaKao.Core\\KaKao.Core.csproj"
+              "C:\\Users\\PCY\\Desktop\\박철용\\Kakaotalk - WPF\\KakaoTalk-WPF\\src\\Kakao\\Kakao.Core\\Kakao.Core.csproj": {
+                "projectPath": "C:\\Users\\PCY\\Desktop\\박철용\\Kakaotalk - WPF\\KakaoTalk-WPF\\src\\Kakao\\Kakao.Core\\Kakao.Core.csproj"
               }
             }
           }

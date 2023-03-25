@@ -4,11 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace KaKao.Core.Enums
+namespace Kakao.Core.Enums
 {
-	public enum Regions
-	{
-		MainRegion,
-		ContentRegion
-	}
+    public enum Regions
+    {
+        MainRegion,
+        ContentRegion
+    }
 }

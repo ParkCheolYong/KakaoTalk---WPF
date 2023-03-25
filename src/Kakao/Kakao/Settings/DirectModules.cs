@@ -4,7 +4,7 @@ using Prism.Regions;
 
 namespace Kakao.Settings
 {
-	internal class DirectModules : IModule
+    internal class DirectModules : IModule
     {
         public void OnInitialized(IContainerProvider containerProvider)
         {

@@ -9,8 +9,8 @@
       "Kakao/1.0.0": {
         "dependencies": {
           "Jamesnet.Wpf": "1.0.0.8",
-          "KaKao.Core": "1.0.0",
           "Kakao.Chats": "1.0.0",
+          "Kakao.Core": "1.0.0",
           "Kakao.Forms": "1.0.0",
           "Kakao.Friends": "1.0.0",
           "Kakao.Login": "1.0.0",
@@ -118,21 +118,21 @@
       "Kakao.Chats/1.0.0": {
         "dependencies": {
           "Jamesnet.Wpf": "1.0.0.8",
-          "KaKao.Core": "1.0.0"
+          "Kakao.Core": "1.0.0"
         },
         "runtime": {
           "Kakao.Chats.dll": {}
         }
       },
-      "KaKao.Core/1.0.0": {
+      "Kakao.Core/1.0.0": {
         "runtime": {
-          "KaKao.Core.dll": {}
+          "Kakao.Core.dll": {}
         }
       },
       "Kakao.Forms/1.0.0": {
         "dependencies": {
           "Jamesnet.Wpf": "1.0.0.8",
-          "KaKao.Core": "1.0.0"
+          "Kakao.Core": "1.0.0"
         },
         "runtime": {
           "Kakao.Forms.dll": {}
@@ -141,16 +141,22 @@
       "Kakao.Friends/1.0.0": {
         "dependencies": {
           "Jamesnet.Wpf": "1.0.0.8",
-          "KaKao.Core": "1.0.0"
+          "Kakao.Core": "1.0.0"
         },
         "runtime": {
           "Kakao.Friends.dll": {}
         }
       },
+      "Kakao.LayoutSupport/1.0.0": {
+        "runtime": {
+          "Kakao.LayoutSupport.dll": {}
+        }
+      },
       "Kakao.Login/1.0.0": {
         "dependencies": {
           "Jamesnet.Wpf": "1.0.0.8",
-          "KaKao.Core": "1.0.0"
+          "Kakao.Core": "1.0.0",
+          "Kakao.LayoutSupport": "1.0.0"
         },
         "runtime": {
           "Kakao.Login.dll": {}
@@ -159,7 +165,7 @@
       "Kakao.Main/1.0.0": {
         "dependencies": {
           "Jamesnet.Wpf": "1.0.0.8",
-          "KaKao.Core": "1.0.0"
+          "Kakao.Core": "1.0.0"
         },
         "runtime": {
           "Kakao.Main.dll": {}
@@ -168,7 +174,7 @@
       "Kakao.More/1.0.0": {
         "dependencies": {
           "Jamesnet.Wpf": "1.0.0.8",
-          "KaKao.Core": "1.0.0"
+          "Kakao.Core": "1.0.0"
         },
         "runtime": {
           "Kakao.More.dll": {}
@@ -264,7 +270,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "KaKao.Core/1.0.0": {
+    "Kakao.Core/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
@@ -275,6 +281,11 @@
       "sha512": ""
     },
     "Kakao.Friends/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Kakao.LayoutSupport/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -4,14 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace KaKao.Core.Enums
+namespace Kakao.Core.Enums
 {
-	public enum Contents
-	{
-		Login,
-		Main,
-		Friends,
-		Chats,
-		More
-	}
+    public enum Contents
+    {
+        Login,
+        Main,
+        Friends,
+        Chats,
+        More
+    }
 }

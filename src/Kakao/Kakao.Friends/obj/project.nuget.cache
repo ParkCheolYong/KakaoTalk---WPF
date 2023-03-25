@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uvJf/RkJXkxeZYTEThHywE1yNWghqw58xpijymlMwF/z2SnadV7wcy0xcKwxD5FjN9GLqP6NzmIfpBPqDyiKpA==",
+  "dgSpecHash": "oYdiTqVllt5J1k7oZGit9v/6NZse/ICEtuwYsSvQDh6GzatQj7tyv79M5TECyZRAjrfxfPzVunaBAjTf3HStKA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\PCY\\Downloads\\kakaotalk-main (1)\\kakaotalk-main\\src\\Kakao\\Kakao.Friends\\Kakao.Friends.csproj",
+  "projectFilePath": "C:\\Users\\PCY\\Desktop\\박철용\\Kakaotalk - WPF\\KakaoTalk-WPF\\src\\Kakao\\Kakao.Friends\\Kakao.Friends.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PCY\\.nuget\\packages\\communitytoolkit.mvvm\\8.1.0\\communitytoolkit.mvvm.8.1.0.nupkg.sha512",
     "C:\\Users\\PCY\\.nuget\\packages\\jamesnet.wpf\\1.0.0.8\\jamesnet.wpf.1.0.0.8.nupkg.sha512",

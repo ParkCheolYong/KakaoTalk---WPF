@@ -12,9 +12,10 @@
                             BorderBrush="{TemplateBinding BorderBrush}"
                             BorderThickness="{TemplateBinding BorderThickness}">
                         <StackPanel>
-                            <TextBlock Text="Friends" 
+                            <TextBlock Text="Friends"
+                                       Margin="10"
                                        FontSize="24"/>
-                            
+
                             <Button Content="Logout"
                                     Margin="10"
                                     Padding="8 4 8 4"

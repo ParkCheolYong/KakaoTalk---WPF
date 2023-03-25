@@ -12,11 +12,9 @@
                             BorderBrush="{TemplateBinding BorderBrush}"
                             BorderThickness="{TemplateBinding BorderThickness}">
                         <StackPanel>
-                            <TextBlock Text="Chats" 
+                            <TextBlock Text="Chats"
                                        Margin="10"
                                        FontSize="24"/>
-                            
-                           
                         </StackPanel>
                     </Border>
                 </ControlTemplate>

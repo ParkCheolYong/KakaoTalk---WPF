@@ -14,16 +14,16 @@ using Kakao.More.UI.Views;
 
 namespace Kakao.Settings
 {
-	internal class WireDataContext : ViewModelLocationScenario
+    internal class WireDataContext : ViewModelLocationScenario
     {
         protected override void Match(ViewModelLocatorCollection items)
         {
-			items.Register<KakaoWindow, KakaoViewModel>();
-			items.Register<LoginContent, LoginContentViewModel>();
-			items.Register<MainContent, MainContentViewModel>();
-			items.Register<FriendsContent, FriendsContentViewModel>();
-			items.Register<ChatsContent, ChatsContentViewModel>();
-			items.Register<MoreContent, MoreContentViewModel>();
-		}
+            items.Register<KakaoWindow, KakaoViewModel>();
+            items.Register<LoginContent, LoginContentViewModel>();
+            items.Register<MainContent, MainContentViewModel>();
+            items.Register<FriendsContent, FriendsContentViewModel>();
+            items.Register<ChatsContent, ChatsContentViewModel>();
+            items.Register<MoreContent, MoreContentViewModel>();
+        }
     }
 }

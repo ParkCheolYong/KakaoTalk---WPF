@@ -19,3 +19,24 @@ C:\Users\PCY\Downloads\kakaotalk-main (1)\kakaotalk-main\src\Kakao\Kakao.More\ob
 C:\Users\PCY\Downloads\kakaotalk-main (1)\kakaotalk-main\src\Kakao\Kakao.More\obj\Debug\net7.0-windows\refint\Kakao.More.dll
 C:\Users\PCY\Downloads\kakaotalk-main (1)\kakaotalk-main\src\Kakao\Kakao.More\obj\Debug\net7.0-windows\Kakao.More.pdb
 C:\Users\PCY\Downloads\kakaotalk-main (1)\kakaotalk-main\src\Kakao\Kakao.More\obj\Debug\net7.0-windows\ref\Kakao.More.dll
+C:\Users\PCY\Desktop\박철용\Kakaotalk - WPF\KakaoTalk-WPF\src\Kakao\Kakao.More\bin\Debug\net7.0-windows\Kakao.More.deps.json
+C:\Users\PCY\Desktop\박철용\Kakaotalk - WPF\KakaoTalk-WPF\src\Kakao\Kakao.More\bin\Debug\net7.0-windows\Kakao.More.dll
+C:\Users\PCY\Desktop\박철용\Kakaotalk - WPF\KakaoTalk-WPF\src\Kakao\Kakao.More\bin\Debug\net7.0-windows\Kakao.More.pdb
+C:\Users\PCY\Desktop\박철용\Kakaotalk - WPF\KakaoTalk-WPF\src\Kakao\Kakao.More\bin\Debug\net7.0-windows\KaKao.Core.dll
+C:\Users\PCY\Desktop\박철용\Kakaotalk - WPF\KakaoTalk-WPF\src\Kakao\Kakao.More\bin\Debug\net7.0-windows\KaKao.Core.pdb
+C:\Users\PCY\Desktop\박철용\Kakaotalk - WPF\KakaoTalk-WPF\src\Kakao\Kakao.More\obj\Debug\net7.0-windows\Kakao.More.csproj.AssemblyReference.cache
+C:\Users\PCY\Desktop\박철용\Kakaotalk - WPF\KakaoTalk-WPF\src\Kakao\Kakao.More\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\PCY\Desktop\박철용\Kakaotalk - WPF\KakaoTalk-WPF\src\Kakao\Kakao.More\obj\Debug\net7.0-windows\Kakao.More_MarkupCompile.cache
+C:\Users\PCY\Desktop\박철용\Kakaotalk - WPF\KakaoTalk-WPF\src\Kakao\Kakao.More\obj\Debug\net7.0-windows\Kakao.More_MarkupCompile.lref
+C:\Users\PCY\Desktop\박철용\Kakaotalk - WPF\KakaoTalk-WPF\src\Kakao\Kakao.More\obj\Debug\net7.0-windows\Themes\Generic.baml
+C:\Users\PCY\Desktop\박철용\Kakaotalk - WPF\KakaoTalk-WPF\src\Kakao\Kakao.More\obj\Debug\net7.0-windows\Themes\Views\MoreContent.baml
+C:\Users\PCY\Desktop\박철용\Kakaotalk - WPF\KakaoTalk-WPF\src\Kakao\Kakao.More\obj\Debug\net7.0-windows\Kakao.More.g.resources
+C:\Users\PCY\Desktop\박철용\Kakaotalk - WPF\KakaoTalk-WPF\src\Kakao\Kakao.More\obj\Debug\net7.0-windows\Kakao.More.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PCY\Desktop\박철용\Kakaotalk - WPF\KakaoTalk-WPF\src\Kakao\Kakao.More\obj\Debug\net7.0-windows\Kakao.More.AssemblyInfoInputs.cache
+C:\Users\PCY\Desktop\박철용\Kakaotalk - WPF\KakaoTalk-WPF\src\Kakao\Kakao.More\obj\Debug\net7.0-windows\Kakao.More.AssemblyInfo.cs
+C:\Users\PCY\Desktop\박철용\Kakaotalk - WPF\KakaoTalk-WPF\src\Kakao\Kakao.More\obj\Debug\net7.0-windows\Kakao.More.csproj.CoreCompileInputs.cache
+C:\Users\PCY\Desktop\박철용\Kakaotalk - WPF\KakaoTalk-WPF\src\Kakao\Kakao.More\obj\Debug\net7.0-windows\Kakao.More.csproj.CopyComplete
+C:\Users\PCY\Desktop\박철용\Kakaotalk - WPF\KakaoTalk-WPF\src\Kakao\Kakao.More\obj\Debug\net7.0-windows\Kakao.More.dll
+C:\Users\PCY\Desktop\박철용\Kakaotalk - WPF\KakaoTalk-WPF\src\Kakao\Kakao.More\obj\Debug\net7.0-windows\refint\Kakao.More.dll
+C:\Users\PCY\Desktop\박철용\Kakaotalk - WPF\KakaoTalk-WPF\src\Kakao\Kakao.More\obj\Debug\net7.0-windows\Kakao.More.pdb
+C:\Users\PCY\Desktop\박철용\Kakaotalk - WPF\KakaoTalk-WPF\src\Kakao\Kakao.More\obj\Debug\net7.0-windows\ref\Kakao.More.dll

@@ -15,11 +15,11 @@ using System.Windows.Shapes;
 
 namespace Kakao.Main.UI.Units
 {
-	public class VerticalMenuListItem : ListBoxItem
-	{
-		static VerticalMenuListItem()
-		{
-			DefaultStyleKeyProperty.OverrideMetadata(typeof(VerticalMenuListItem), new FrameworkPropertyMetadata(typeof(VerticalMenuListItem)));
-		}
-	}
+    public class VerticalMenuListItem : ListBoxItem
+    {
+        static VerticalMenuListItem()
+        {
+            DefaultStyleKeyProperty.OverrideMetadata(typeof(VerticalMenuListItem), new FrameworkPropertyMetadata(typeof(VerticalMenuListItem)));
+        }
+    }
 }

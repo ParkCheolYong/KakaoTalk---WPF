@@ -171,14 +171,14 @@
           "Microsoft.WindowsDesktop.App.WPF"
         ]
       },
-      "KaKao.Core/1.0.0": {
+      "Kakao.Core/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "compile": {
-          "bin/placeholder/KaKao.Core.dll": {}
+          "bin/placeholder/Kakao.Core.dll": {}
         },
         "runtime": {
-          "bin/placeholder/KaKao.Core.dll": {}
+          "bin/placeholder/Kakao.Core.dll": {}
         },
         "frameworkReferences": [
           "Microsoft.WindowsDesktop.App.WPF"
@@ -465,16 +465,16 @@
         "wpfautogrid.core.nuspec"
       ]
     },
-    "KaKao.Core/1.0.0": {
+    "Kakao.Core/1.0.0": {
       "type": "project",
-      "path": "../KaKao.Core/KaKao.Core.csproj",
-      "msbuildProject": "../KaKao.Core/KaKao.Core.csproj"
+      "path": "../Kakao.Core/Kakao.Core.csproj",
+      "msbuildProject": "../Kakao.Core/Kakao.Core.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0-windows7.0": [
       "Jamesnet.Wpf >= 1.0.0.8",
-      "KaKao.Core >= 1.0.0"
+      "Kakao.Core >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -484,11 +484,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PCY\\Downloads\\kakaotalk-main (1)\\kakaotalk-main\\src\\Kakao\\Kakao.Friends\\Kakao.Friends.csproj",
+      "projectUniqueName": "C:\\Users\\PCY\\Desktop\\박철용\\Kakaotalk - WPF\\KakaoTalk-WPF\\src\\Kakao\\Kakao.Friends\\Kakao.Friends.csproj",
       "projectName": "Kakao.Friends",
-      "projectPath": "C:\\Users\\PCY\\Downloads\\kakaotalk-main (1)\\kakaotalk-main\\src\\Kakao\\Kakao.Friends\\Kakao.Friends.csproj",
+      "projectPath": "C:\\Users\\PCY\\Desktop\\박철용\\Kakaotalk - WPF\\KakaoTalk-WPF\\src\\Kakao\\Kakao.Friends\\Kakao.Friends.csproj",
       "packagesPath": "C:\\Users\\PCY\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PCY\\Downloads\\kakaotalk-main (1)\\kakaotalk-main\\src\\Kakao\\Kakao.Friends\\obj\\",
+      "outputPath": "C:\\Users\\PCY\\Desktop\\박철용\\Kakaotalk - WPF\\KakaoTalk-WPF\\src\\Kakao\\Kakao.Friends\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -508,8 +508,8 @@
         "net7.0-windows7.0": {
           "targetAlias": "net7.0-windows",
           "projectReferences": {
-            "C:\\Users\\PCY\\Downloads\\kakaotalk-main (1)\\kakaotalk-main\\src\\Kakao\\KaKao.Core\\KaKao.Core.csproj": {
-              "projectPath": "C:\\Users\\PCY\\Downloads\\kakaotalk-main (1)\\kakaotalk-main\\src\\Kakao\\KaKao.Core\\KaKao.Core.csproj"
+            "C:\\Users\\PCY\\Desktop\\박철용\\Kakaotalk - WPF\\KakaoTalk-WPF\\src\\Kakao\\Kakao.Core\\Kakao.Core.csproj": {
+              "projectPath": "C:\\Users\\PCY\\Desktop\\박철용\\Kakaotalk - WPF\\KakaoTalk-WPF\\src\\Kakao\\Kakao.Core\\Kakao.Core.csproj"
             }
           }
         }

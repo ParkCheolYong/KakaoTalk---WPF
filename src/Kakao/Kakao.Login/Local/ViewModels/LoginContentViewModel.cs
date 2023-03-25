@@ -1,36 +1,34 @@
 ﻿using CommunityToolkit.Mvvm.Input;
 using Jamesnet.Wpf.Controls;
 using Jamesnet.Wpf.Mvvm;
-using KaKao.Core.Names;
+using Kakao.Core.Names;
 using Prism.Ioc;
 using Prism.Regions;
 
 namespace Kakao.Login.Local.ViewModels
 {
-	public partial class LoginContentViewModel : ObservableBase
+    public partial class LoginContentViewModel : ObservableBase
     {
-		private readonly IRegionManager _regionManager;
-		private readonly IContainerProvider _containerProvider;
+        private readonly IRegionManager _regionManager;
+        private readonly IContainerProvider _containerProvider;
 
-		public LoginContentViewModel(IRegionManager regionManager, IContainerProvider containerProvider) 
+        public LoginContentViewModel(IRegionManager regionManager, IContainerProvider containerProvider) 
         {
             _regionManager = regionManager;
-			_containerProvider = containerProvider;
-
-		}
+            _containerProvider = containerProvider;
+        }
 
         [RelayCommand]
         private void Login()
         {
-			IRegion mainRegion = _regionManager.Regions[RegionNameManager.MainRegion];
-			IViewable mainContent = _containerProvider.Resolve<IViewable>(ContentNameManager.Main);
+            IRegion mainRegion = _regionManager.Regions[RegionNameManager.MainRegion];
+            IViewable mainConttent = _containerProvider.Resolve<IViewable>(ContentNameManager.Main);
 
-			if (!mainRegion.Views.Contains(mainContent))
-			{
-				mainRegion.Add(mainContent);
-			}
-
-			mainRegion.Activate(mainContent);
-		}
+            if (!mainRegion.Views.Contains(mainConttent))
+            {
+                mainRegion.Add(mainConttent);
+            }
+            mainRegion.Activate(mainConttent);
+        }
     }
 }

@@ -4,7 +4,7 @@
 library
 C#
 .cs
-C:\Users\PCY\Downloads\kakaotalk-main (1)\kakaotalk-main\src\Kakao\Kakao.Chats\obj\Debug\net7.0-windows\
+C:\Users\PCY\Desktop\박철용\Kakaotalk - WPF\KakaoTalk-WPF\src\Kakao\Kakao.Chats\obj\Debug\net7.0-windows\
 Kakao.Chats
 none
 false
@@ -13,7 +13,7 @@ TRACE;DEBUG;NET;NET7_0;NETCOREAPP
 22077450951
 
 3652687970
-2087803608
+2081655983619
 Themes\Generic.xaml;Themes\Views\ChatsContent.xaml;
 
 False

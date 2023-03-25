@@ -11,7 +11,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\KaKao.Core\KaKao.Core.csproj" />
+    <ProjectReference Include="..\Kakao.Core\Kakao.Core.csproj" />
   </ItemGroup>
 
 </Project>

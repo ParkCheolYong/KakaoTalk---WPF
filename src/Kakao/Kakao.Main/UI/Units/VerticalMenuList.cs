@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Microsoft.Windows.Themes;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -15,17 +16,16 @@ using System.Windows.Shapes;
 
 namespace Kakao.Main.UI.Units
 {
-	
-	public class VerticalMenuList : ListBox
-	{
-		static VerticalMenuList()
-		{
-			DefaultStyleKeyProperty.OverrideMetadata(typeof(VerticalMenuList), new FrameworkPropertyMetadata(typeof(VerticalMenuList)));
-		}
+    public class VerticalMenuList : ListBox
+    {
+        static VerticalMenuList()
+        {
+            DefaultStyleKeyProperty.OverrideMetadata(typeof(VerticalMenuList), new FrameworkPropertyMetadata(typeof(VerticalMenuList)));
+        }
 
-		protected override DependencyObject GetContainerForItemOverride()
-		{
-			return new VerticalMenuListItem();
-		}
-	}
+        protected override DependencyObject GetContainerForItemOverride()
+        {
+            return new VerticalMenuListItem();
+        }
+    }
 }

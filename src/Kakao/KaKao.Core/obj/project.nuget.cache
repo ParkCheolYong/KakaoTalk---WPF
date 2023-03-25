@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mAiKf4ZX8pzL/26Ru0kQfeLKV76pCLYnd2LbmrburToHDYmpRZ5lpank2kGqwvrr1ZTKxjr3lEPh7ZH+drjJqQ==",
+  "dgSpecHash": "vmCU0GTBGe78m8SfO+XjdTsbu+OKp7gjJZTDuFxfkCKLjG1jP7X7J4yq50y3xCV8bn3hWn1AbZNZrM4v/aCTkQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\PCY\\Downloads\\kakaotalk-main (1)\\kakaotalk-main\\src\\Kakao\\KaKao.Core\\KaKao.Core.csproj",
+  "projectFilePath": "C:\\Users\\PCY\\Desktop\\박철용\\Kakaotalk - WPF\\KakaoTalk-WPF\\src\\Kakao\\Kakao.Core\\Kakao.Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

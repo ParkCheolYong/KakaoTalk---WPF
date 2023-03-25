@@ -4,7 +4,7 @@
     xmlns:views="clr-namespace:Kakao.Main.UI.Views"
     xmlns:units="clr-namespace:Kakao.Main.UI.Units"
     xmlns:james="clr-namespace:Jamesnet.Wpf.Controls;assembly=Jamesnet.Wpf"
-    xmlns:names="clr-namespace:KaKao.Core.Names;assembly=KaKao.Core">
+    xmlns:names="clr-namespace:Kakao.Core.Names;assembly=Kakao.Core">
 
     <Style TargetType="{x:Type views:MainContent}">
         <Setter Property="Background" Value="Yellow"/>
@@ -16,10 +16,11 @@
                             BorderThickness="{TemplateBinding BorderThickness}">
                         <james:JamesGrid Rows="*, Auto"
                                          Columns="Auto, *">
+
                             <StackPanel>
                                 <units:VerticalMenuList ItemsSource="{Binding Menus}"
                                                         SelectedItem="{Binding Menu}"/>
-                                                             
+
                                 <Button Content="Logout"
                                         Margin="10"
                                         Padding="8 4 8 4"

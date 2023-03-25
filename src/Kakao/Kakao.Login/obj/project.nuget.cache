@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4KcBf/ZIPkNmRElEraec99j9M9uh7PKWI5W66VqeA7fiVvgjCjN5qLgE2iH5cMBn7L5RPnd0X3oSA36nvqiWXw==",
+  "dgSpecHash": "PvSWLV4WeWysjl47rvI2xrWplctZOPZVHlZhAVdxdLZNdvLXfUmIgJ62HQw2uh65fniA1Osx49gkiDDxsllGzQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\PCY\\Downloads\\kakaotalk-main (1)\\kakaotalk-main\\src\\Kakao\\Kakao.Login\\Kakao.Login.csproj",
+  "projectFilePath": "C:\\Users\\PCY\\Desktop\\박철용\\Kakaotalk - WPF\\KakaoTalk-WPF\\src\\Kakao\\Kakao.Login\\Kakao.Login.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PCY\\.nuget\\packages\\communitytoolkit.mvvm\\8.1.0\\communitytoolkit.mvvm.8.1.0.nupkg.sha512",
     "C:\\Users\\PCY\\.nuget\\packages\\jamesnet.wpf\\1.0.0.8\\jamesnet.wpf.1.0.0.8.nupkg.sha512",

@@ -9,7 +9,7 @@
       "Kakao.Friends/1.0.0": {
         "dependencies": {
           "Jamesnet.Wpf": "1.0.0.8",
-          "KaKao.Core": "1.0.0"
+          "Kakao.Core": "1.0.0"
         },
         "runtime": {
           "Kakao.Friends.dll": {}
@@ -109,9 +109,9 @@
           }
         }
       },
-      "KaKao.Core/1.0.0": {
+      "Kakao.Core/1.0.0": {
         "runtime": {
-          "KaKao.Core.dll": {}
+          "Kakao.Core.dll": {}
         }
       }
     }
@@ -199,7 +199,7 @@
       "path": "wpfautogrid.core/1.5.1",
       "hashPath": "wpfautogrid.core.1.5.1.nupkg.sha512"
     },
-    "KaKao.Core/1.0.0": {
+    "Kakao.Core/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -176,7 +176,7 @@
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
           "Jamesnet.Wpf": "1.0.0.8",
-          "KaKao.Core": "1.0.0"
+          "Kakao.Core": "1.0.0"
         },
         "compile": {
           "bin/placeholder/Kakao.Chats.dll": {}
@@ -188,14 +188,14 @@
           "Microsoft.WindowsDesktop.App.WPF"
         ]
       },
-      "KaKao.Core/1.0.0": {
+      "Kakao.Core/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "compile": {
-          "bin/placeholder/KaKao.Core.dll": {}
+          "bin/placeholder/Kakao.Core.dll": {}
         },
         "runtime": {
-          "bin/placeholder/KaKao.Core.dll": {}
+          "bin/placeholder/Kakao.Core.dll": {}
         },
         "frameworkReferences": [
           "Microsoft.WindowsDesktop.App.WPF"
@@ -206,7 +206,7 @@
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
           "Jamesnet.Wpf": "1.0.0.8",
-          "KaKao.Core": "1.0.0"
+          "Kakao.Core": "1.0.0"
         },
         "compile": {
           "bin/placeholder/Kakao.Forms.dll": {}
@@ -223,7 +223,7 @@
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
           "Jamesnet.Wpf": "1.0.0.8",
-          "KaKao.Core": "1.0.0"
+          "Kakao.Core": "1.0.0"
         },
         "compile": {
           "bin/placeholder/Kakao.Friends.dll": {}
@@ -235,12 +235,26 @@
           "Microsoft.WindowsDesktop.App.WPF"
         ]
       },
+      "Kakao.LayoutSupport/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Kakao.LayoutSupport.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Kakao.LayoutSupport.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      },
       "Kakao.Login/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
           "Jamesnet.Wpf": "1.0.0.8",
-          "KaKao.Core": "1.0.0"
+          "Kakao.Core": "1.0.0",
+          "Kakao.LayoutSupport": "1.0.0"
         },
         "compile": {
           "bin/placeholder/Kakao.Login.dll": {}
@@ -257,7 +271,7 @@
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
           "Jamesnet.Wpf": "1.0.0.8",
-          "KaKao.Core": "1.0.0"
+          "Kakao.Core": "1.0.0"
         },
         "compile": {
           "bin/placeholder/Kakao.Main.dll": {}
@@ -274,7 +288,7 @@
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
           "Jamesnet.Wpf": "1.0.0.8",
-          "KaKao.Core": "1.0.0"
+          "Kakao.Core": "1.0.0"
         },
         "compile": {
           "bin/placeholder/Kakao.More.dll": {}
@@ -572,10 +586,10 @@
       "path": "../Kakao.Chats/Kakao.Chats.csproj",
       "msbuildProject": "../Kakao.Chats/Kakao.Chats.csproj"
     },
-    "KaKao.Core/1.0.0": {
+    "Kakao.Core/1.0.0": {
       "type": "project",
-      "path": "../KaKao.Core/KaKao.Core.csproj",
-      "msbuildProject": "../KaKao.Core/KaKao.Core.csproj"
+      "path": "../Kakao.Core/Kakao.Core.csproj",
+      "msbuildProject": "../Kakao.Core/Kakao.Core.csproj"
     },
     "Kakao.Forms/1.0.0": {
       "type": "project",
@@ -586,6 +600,11 @@
       "type": "project",
       "path": "../Kakao.Friends/Kakao.Friends.csproj",
       "msbuildProject": "../Kakao.Friends/Kakao.Friends.csproj"
+    },
+    "Kakao.LayoutSupport/1.0.0": {
+      "type": "project",
+      "path": "../Kakao.LayoutSupport/Kakao.LayoutSupport.csproj",
+      "msbuildProject": "../Kakao.LayoutSupport/Kakao.LayoutSupport.csproj"
     },
     "Kakao.Login/1.0.0": {
       "type": "project",
@@ -606,8 +625,8 @@
   "projectFileDependencyGroups": {
     "net7.0-windows7.0": [
       "Jamesnet.Wpf >= 1.0.0.8",
-      "KaKao.Core >= 1.0.0",
       "Kakao.Chats >= 1.0.0",
+      "Kakao.Core >= 1.0.0",
       "Kakao.Forms >= 1.0.0",
       "Kakao.Friends >= 1.0.0",
       "Kakao.Login >= 1.0.0",
@@ -622,11 +641,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PCY\\Downloads\\kakaotalk-main (1)\\kakaotalk-main\\src\\Kakao\\Kakao\\Kakao.csproj",
+      "projectUniqueName": "C:\\Users\\PCY\\Desktop\\박철용\\Kakaotalk - WPF\\KakaoTalk-WPF\\src\\Kakao\\Kakao\\Kakao.csproj",
       "projectName": "Kakao",
-      "projectPath": "C:\\Users\\PCY\\Downloads\\kakaotalk-main (1)\\kakaotalk-main\\src\\Kakao\\Kakao\\Kakao.csproj",
+      "projectPath": "C:\\Users\\PCY\\Desktop\\박철용\\Kakaotalk - WPF\\KakaoTalk-WPF\\src\\Kakao\\Kakao\\Kakao.csproj",
       "packagesPath": "C:\\Users\\PCY\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PCY\\Downloads\\kakaotalk-main (1)\\kakaotalk-main\\src\\Kakao\\Kakao\\obj\\",
+      "outputPath": "C:\\Users\\PCY\\Desktop\\박철용\\Kakaotalk - WPF\\KakaoTalk-WPF\\src\\Kakao\\Kakao\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -646,26 +665,26 @@
         "net7.0-windows7.0": {
           "targetAlias": "net7.0-windows",
           "projectReferences": {
-            "C:\\Users\\PCY\\Downloads\\kakaotalk-main (1)\\kakaotalk-main\\src\\Kakao\\Kakao.Chats\\Kakao.Chats.csproj": {
-              "projectPath": "C:\\Users\\PCY\\Downloads\\kakaotalk-main (1)\\kakaotalk-main\\src\\Kakao\\Kakao.Chats\\Kakao.Chats.csproj"
+            "C:\\Users\\PCY\\Desktop\\박철용\\Kakaotalk - WPF\\KakaoTalk-WPF\\src\\Kakao\\Kakao.Chats\\Kakao.Chats.csproj": {
+              "projectPath": "C:\\Users\\PCY\\Desktop\\박철용\\Kakaotalk - WPF\\KakaoTalk-WPF\\src\\Kakao\\Kakao.Chats\\Kakao.Chats.csproj"
             },
-            "C:\\Users\\PCY\\Downloads\\kakaotalk-main (1)\\kakaotalk-main\\src\\Kakao\\KaKao.Core\\KaKao.Core.csproj": {
-              "projectPath": "C:\\Users\\PCY\\Downloads\\kakaotalk-main (1)\\kakaotalk-main\\src\\Kakao\\KaKao.Core\\KaKao.Core.csproj"
+            "C:\\Users\\PCY\\Desktop\\박철용\\Kakaotalk - WPF\\KakaoTalk-WPF\\src\\Kakao\\Kakao.Core\\Kakao.Core.csproj": {
+              "projectPath": "C:\\Users\\PCY\\Desktop\\박철용\\Kakaotalk - WPF\\KakaoTalk-WPF\\src\\Kakao\\Kakao.Core\\Kakao.Core.csproj"
             },
-            "C:\\Users\\PCY\\Downloads\\kakaotalk-main (1)\\kakaotalk-main\\src\\Kakao\\Kakao.Forms\\Kakao.Forms.csproj": {
-              "projectPath": "C:\\Users\\PCY\\Downloads\\kakaotalk-main (1)\\kakaotalk-main\\src\\Kakao\\Kakao.Forms\\Kakao.Forms.csproj"
+            "C:\\Users\\PCY\\Desktop\\박철용\\Kakaotalk - WPF\\KakaoTalk-WPF\\src\\Kakao\\Kakao.Forms\\Kakao.Forms.csproj": {
+              "projectPath": "C:\\Users\\PCY\\Desktop\\박철용\\Kakaotalk - WPF\\KakaoTalk-WPF\\src\\Kakao\\Kakao.Forms\\Kakao.Forms.csproj"
             },
-            "C:\\Users\\PCY\\Downloads\\kakaotalk-main (1)\\kakaotalk-main\\src\\Kakao\\Kakao.Friends\\Kakao.Friends.csproj": {
-              "projectPath": "C:\\Users\\PCY\\Downloads\\kakaotalk-main (1)\\kakaotalk-main\\src\\Kakao\\Kakao.Friends\\Kakao.Friends.csproj"
+            "C:\\Users\\PCY\\Desktop\\박철용\\Kakaotalk - WPF\\KakaoTalk-WPF\\src\\Kakao\\Kakao.Friends\\Kakao.Friends.csproj": {
+              "projectPath": "C:\\Users\\PCY\\Desktop\\박철용\\Kakaotalk - WPF\\KakaoTalk-WPF\\src\\Kakao\\Kakao.Friends\\Kakao.Friends.csproj"
             },
-            "C:\\Users\\PCY\\Downloads\\kakaotalk-main (1)\\kakaotalk-main\\src\\Kakao\\Kakao.Login\\Kakao.Login.csproj": {
-              "projectPath": "C:\\Users\\PCY\\Downloads\\kakaotalk-main (1)\\kakaotalk-main\\src\\Kakao\\Kakao.Login\\Kakao.Login.csproj"
+            "C:\\Users\\PCY\\Desktop\\박철용\\Kakaotalk - WPF\\KakaoTalk-WPF\\src\\Kakao\\Kakao.Login\\Kakao.Login.csproj": {
+              "projectPath": "C:\\Users\\PCY\\Desktop\\박철용\\Kakaotalk - WPF\\KakaoTalk-WPF\\src\\Kakao\\Kakao.Login\\Kakao.Login.csproj"
             },
-            "C:\\Users\\PCY\\Downloads\\kakaotalk-main (1)\\kakaotalk-main\\src\\Kakao\\Kakao.Main\\Kakao.Main.csproj": {
-              "projectPath": "C:\\Users\\PCY\\Downloads\\kakaotalk-main (1)\\kakaotalk-main\\src\\Kakao\\Kakao.Main\\Kakao.Main.csproj"
+            "C:\\Users\\PCY\\Desktop\\박철용\\Kakaotalk - WPF\\KakaoTalk-WPF\\src\\Kakao\\Kakao.Main\\Kakao.Main.csproj": {
+              "projectPath": "C:\\Users\\PCY\\Desktop\\박철용\\Kakaotalk - WPF\\KakaoTalk-WPF\\src\\Kakao\\Kakao.Main\\Kakao.Main.csproj"
             },
-            "C:\\Users\\PCY\\Downloads\\kakaotalk-main (1)\\kakaotalk-main\\src\\Kakao\\Kakao.More\\Kakao.More.csproj": {
-              "projectPath": "C:\\Users\\PCY\\Downloads\\kakaotalk-main (1)\\kakaotalk-main\\src\\Kakao\\Kakao.More\\Kakao.More.csproj"
+            "C:\\Users\\PCY\\Desktop\\박철용\\Kakaotalk - WPF\\KakaoTalk-WPF\\src\\Kakao\\Kakao.More\\Kakao.More.csproj": {
+              "projectPath": "C:\\Users\\PCY\\Desktop\\박철용\\Kakaotalk - WPF\\KakaoTalk-WPF\\src\\Kakao\\Kakao.More\\Kakao.More.csproj"
             }
           }
         }
