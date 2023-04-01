@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET7_0;NETCOREAPP
 
-4-15718955
+6-542719774
 
-6759779514
-198-2048575587
-Themes\Generic.xaml;Themes\Units\PlaceholderPasswordBox.xaml;Themes\Units\PlaceholderTextBox.xaml;Themes\Units\TaskBarButton.xaml;
+8-224233964
+207982130659
+Themes\Generic.xaml;Themes\Units\ExpandButton.xaml;Themes\Units\FriendsBox.xaml;Themes\Units\PlaceholderPasswordBox.xaml;Themes\Units\PlaceholderTextBox.xaml;Themes\Units\TaskBarButton.xaml;
 
 False
 

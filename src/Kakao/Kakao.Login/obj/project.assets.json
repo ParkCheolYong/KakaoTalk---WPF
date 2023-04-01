@@ -187,6 +187,9 @@
       "Kakao.LayoutSupport/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Jamesnet.Wpf": "1.0.0.8"
+        },
         "compile": {
           "bin/placeholder/Kakao.LayoutSupport.dll": {}
         },

@@ -223,7 +223,9 @@
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
           "Jamesnet.Wpf": "1.0.0.8",
-          "Kakao.Core": "1.0.0"
+          "Kakao.Core": "1.0.0",
+          "Kakao.Friends.Birth": "1.0.0",
+          "Kakao.Friends.Favorites": "1.0.0"
         },
         "compile": {
           "bin/placeholder/Kakao.Friends.dll": {}
@@ -235,9 +237,44 @@
           "Microsoft.WindowsDesktop.App.WPF"
         ]
       },
+      "Kakao.Friends.Birth/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Kakao.LayoutSupport": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Kakao.Friends.Birth.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Kakao.Friends.Birth.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      },
+      "Kakao.Friends.Favorites/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Kakao.LayoutSupport": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Kakao.Friends.Favorites.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Kakao.Friends.Favorites.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      },
       "Kakao.LayoutSupport/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Jamesnet.Wpf": "1.0.0.8"
+        },
         "compile": {
           "bin/placeholder/Kakao.LayoutSupport.dll": {}
         },
@@ -600,6 +637,16 @@
       "type": "project",
       "path": "../Kakao.Friends/Kakao.Friends.csproj",
       "msbuildProject": "../Kakao.Friends/Kakao.Friends.csproj"
+    },
+    "Kakao.Friends.Birth/1.0.0": {
+      "type": "project",
+      "path": "../Kakao.Friends.Birth/Kakao.Friends.Birth.csproj",
+      "msbuildProject": "../Kakao.Friends.Birth/Kakao.Friends.Birth.csproj"
+    },
+    "Kakao.Friends.Favorites/1.0.0": {
+      "type": "project",
+      "path": "../Kakao.Friends.Favorites/Kakao.Friends.Favorites.csproj",
+      "msbuildProject": "../Kakao.Friends.Favorites/Kakao.Friends.Favorites.csproj"
     },
     "Kakao.LayoutSupport/1.0.0": {
       "type": "project",

@@ -40,3 +40,9 @@ C:\Users\PCY\Desktop\박철용\Kakaotalk - WPF\KakaoTalk-WPF\src\Kakao\Kakao.Fri
 C:\Users\PCY\Desktop\박철용\Kakaotalk - WPF\KakaoTalk-WPF\src\Kakao\Kakao.Friends\obj\Debug\net7.0-windows\refint\Kakao.Friends.dll
 C:\Users\PCY\Desktop\박철용\Kakaotalk - WPF\KakaoTalk-WPF\src\Kakao\Kakao.Friends\obj\Debug\net7.0-windows\Kakao.Friends.pdb
 C:\Users\PCY\Desktop\박철용\Kakaotalk - WPF\KakaoTalk-WPF\src\Kakao\Kakao.Friends\obj\Debug\net7.0-windows\ref\Kakao.Friends.dll
+C:\Users\PCY\Desktop\박철용\Kakaotalk - WPF\KakaoTalk-WPF\src\Kakao\Kakao.Friends\bin\Debug\net7.0-windows\Kakao.Friends.Birth.dll
+C:\Users\PCY\Desktop\박철용\Kakaotalk - WPF\KakaoTalk-WPF\src\Kakao\Kakao.Friends\bin\Debug\net7.0-windows\Kakao.LayoutSupport.dll
+C:\Users\PCY\Desktop\박철용\Kakaotalk - WPF\KakaoTalk-WPF\src\Kakao\Kakao.Friends\bin\Debug\net7.0-windows\Kakao.Friends.Birth.pdb
+C:\Users\PCY\Desktop\박철용\Kakaotalk - WPF\KakaoTalk-WPF\src\Kakao\Kakao.Friends\bin\Debug\net7.0-windows\Kakao.LayoutSupport.pdb
+C:\Users\PCY\Desktop\박철용\Kakaotalk - WPF\KakaoTalk-WPF\src\Kakao\Kakao.Friends\bin\Debug\net7.0-windows\Kakao.Friends.Favorites.dll
+C:\Users\PCY\Desktop\박철용\Kakaotalk - WPF\KakaoTalk-WPF\src\Kakao\Kakao.Friends\bin\Debug\net7.0-windows\Kakao.Friends.Favorites.pdb

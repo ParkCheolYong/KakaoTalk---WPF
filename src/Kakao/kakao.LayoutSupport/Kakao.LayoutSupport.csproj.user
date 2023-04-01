@@ -11,6 +11,12 @@
     <Page Update="Themes\Units\PlaceHolderTextBox.xaml">
       <SubType>Designer</SubType>
     </Page>
+    <Page Update="Themes\Units\FriendsBox.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Themes\Units\ExpandButton.xaml">
+      <SubType>Designer</SubType>
+    </Page>
     <Page Update="Themes\Units\TaskBarButton.xaml">
       <SubType>Designer</SubType>
     </Page>

@@ -9,7 +9,9 @@
       "Kakao.Friends/1.0.0": {
         "dependencies": {
           "Jamesnet.Wpf": "1.0.0.8",
-          "Kakao.Core": "1.0.0"
+          "Kakao.Core": "1.0.0",
+          "Kakao.Friends.Birth": "1.0.0",
+          "Kakao.Friends.Favorites": "1.0.0"
         },
         "runtime": {
           "Kakao.Friends.dll": {}
@@ -113,6 +115,30 @@
         "runtime": {
           "Kakao.Core.dll": {}
         }
+      },
+      "Kakao.Friends.Birth/1.0.0": {
+        "dependencies": {
+          "Kakao.LayoutSupport": "1.0.0"
+        },
+        "runtime": {
+          "Kakao.Friends.Birth.dll": {}
+        }
+      },
+      "Kakao.Friends.Favorites/1.0.0": {
+        "dependencies": {
+          "Kakao.LayoutSupport": "1.0.0"
+        },
+        "runtime": {
+          "Kakao.Friends.Favorites.dll": {}
+        }
+      },
+      "Kakao.LayoutSupport/1.0.0": {
+        "dependencies": {
+          "Jamesnet.Wpf": "1.0.0.8"
+        },
+        "runtime": {
+          "Kakao.LayoutSupport.dll": {}
+        }
       }
     }
   },
@@ -200,6 +226,21 @@
       "hashPath": "wpfautogrid.core.1.5.1.nupkg.sha512"
     },
     "Kakao.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Kakao.Friends.Birth/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Kakao.Friends.Favorites/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Kakao.LayoutSupport/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

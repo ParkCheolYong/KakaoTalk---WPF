@@ -18,3 +18,5 @@ C:\Users\PCY\Desktop\박철용\Kakaotalk - WPF\KakaoTalk-WPF\src\Kakao\kakao.Lay
 C:\Users\PCY\Desktop\박철용\Kakaotalk - WPF\KakaoTalk-WPF\src\Kakao\kakao.LayoutSupport\obj\Debug\net7.0-windows\ref\kakao.LayoutSupport.dll
 C:\Users\PCY\Desktop\박철용\Kakaotalk - WPF\KakaoTalk-WPF\src\Kakao\Kakao.LayoutSupport\obj\Debug\net7.0-windows\Themes\Units\PlaceHolderTextBox.baml
 C:\Users\PCY\Desktop\박철용\Kakaotalk - WPF\KakaoTalk-WPF\src\Kakao\Kakao.LayoutSupport\obj\Debug\net7.0-windows\Themes\Units\PlaceholderPasswordBox.baml
+C:\Users\PCY\Desktop\박철용\Kakaotalk - WPF\KakaoTalk-WPF\src\Kakao\Kakao.LayoutSupport\obj\Debug\net7.0-windows\Themes\Units\FriendsBox.baml
+C:\Users\PCY\Desktop\박철용\Kakaotalk - WPF\KakaoTalk-WPF\src\Kakao\Kakao.LayoutSupport\obj\Debug\net7.0-windows\Themes\Units\ExpandButton.baml

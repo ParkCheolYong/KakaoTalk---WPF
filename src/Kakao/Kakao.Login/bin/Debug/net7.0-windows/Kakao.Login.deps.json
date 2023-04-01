@@ -116,6 +116,9 @@
         }
       },
       "Kakao.LayoutSupport/1.0.0": {
+        "dependencies": {
+          "Jamesnet.Wpf": "1.0.0.8"
+        },
         "runtime": {
           "Kakao.LayoutSupport.dll": {}
         }

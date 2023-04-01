@@ -1,7 +1,9 @@
 <ResourceDictionary
     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-    xmlns:views="clr-namespace:Kakao.Friends.UI.Views">
+    xmlns:views="clr-namespace:Kakao.Friends.UI.Views"
+    xmlns:birth="clr-namespace:Kakao.Friends.Birth.UI.Units;assembly=Kakao.Friends.Birth"
+    xmlns:favorite="clr-namespace:Kakao.Friends.Favorites.UI.Units;assembly=Kakao.Friends.Favorites">
 
     <Style TargetType="{x:Type views:FriendsContent}">
         <Setter Property="Background" Value="Yellow"/>
@@ -15,6 +17,16 @@
                             <TextBlock Text="Friends"
                                        Margin="10"
                                        FontSize="24"/>
+
+                            <birth:BirthdaysBox Tag="Friends With Birthdays">
+                                <birth:BirthdaysBoxItem>asdasdasd</birth:BirthdaysBoxItem>
+                                <birth:BirthdaysBoxItem>asdasdasd</birth:BirthdaysBoxItem>
+                                <birth:BirthdaysBoxItem>asdasdasd</birth:BirthdaysBoxItem>
+                            </birth:BirthdaysBox>
+
+                            <favorite:FavoriteBox Tag="Favorites"
+                                                  DoubleClickCommand="{Binding DoubleClickCommand}"
+                                                  ItemsSource="{Binding Favorites}"/>
 
                             <Button Content="Logout"
                                     Margin="10"
