@@ -8,7 +8,8 @@
     ".NETCoreApp,Version=v7.0": {
       "Kakao.LayoutSupport/1.0.0": {
         "dependencies": {
-          "Jamesnet.Wpf": "1.0.0.8"
+          "Jamesnet.Wpf": "1.0.0.8",
+          "Kakao.Core": "1.0.0"
         },
         "runtime": {
           "Kakao.LayoutSupport.dll": {}
@@ -107,6 +108,14 @@
             "fileVersion": "1.5.1.0"
           }
         }
+      },
+      "Kakao.Core/1.0.0": {
+        "dependencies": {
+          "Jamesnet.Wpf": "1.0.0.8"
+        },
+        "runtime": {
+          "Kakao.Core.dll": {}
+        }
       }
     }
   },
@@ -192,6 +201,11 @@
       "sha512": "sha512-TF0E7EdjvQZOBC3xTTQ1Va221QRf0PXrlQddSKeKGKzSpXye0ip7KKgHeXogX47ojYuCOwD8K0KIHUENyjdaqg==",
       "path": "wpfautogrid.core/1.5.1",
       "hashPath": "wpfautogrid.core.1.5.1.nupkg.sha512"
+    },
+    "Kakao.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }

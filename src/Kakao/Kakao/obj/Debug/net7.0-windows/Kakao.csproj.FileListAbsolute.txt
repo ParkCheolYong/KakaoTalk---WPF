@@ -82,3 +82,7 @@ C:\Users\PCY\Desktop\박철용\Kakaotalk - WPF\KakaoTalk-WPF\src\Kakao\Kakao\bin
 C:\Users\PCY\Desktop\박철용\Kakaotalk - WPF\KakaoTalk-WPF\src\Kakao\Kakao\bin\Debug\net7.0-windows\Kakao.Friends.Birth.pdb
 C:\Users\PCY\Desktop\박철용\Kakaotalk - WPF\KakaoTalk-WPF\src\Kakao\Kakao\bin\Debug\net7.0-windows\Kakao.Friends.Favorites.dll
 C:\Users\PCY\Desktop\박철용\Kakaotalk - WPF\KakaoTalk-WPF\src\Kakao\Kakao\bin\Debug\net7.0-windows\Kakao.Friends.Favorites.pdb
+C:\Users\PCY\Desktop\박철용\Kakaotalk - WPF\KakaoTalk-WPF\src\Kakao\Kakao\bin\Debug\net7.0-windows\Kakao.Talk.dll
+C:\Users\PCY\Desktop\박철용\Kakaotalk - WPF\KakaoTalk-WPF\src\Kakao\Kakao\bin\Debug\net7.0-windows\Kakao.Talk.pdb
+C:\Users\PCY\Desktop\박철용\Kakaotalk - WPF\KakaoTalk-WPF\src\Kakao\Kakao\bin\Debug\net7.0-windows\Kakao.Talk.TextMessage.dll
+C:\Users\PCY\Desktop\박철용\Kakaotalk - WPF\KakaoTalk-WPF\src\Kakao\Kakao\bin\Debug\net7.0-windows\Kakao.Talk.TextMessage.pdb

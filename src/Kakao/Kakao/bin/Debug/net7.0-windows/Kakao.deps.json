@@ -15,7 +15,8 @@
           "Kakao.Friends": "1.0.0",
           "Kakao.Login": "1.0.0",
           "Kakao.Main": "1.0.0",
-          "Kakao.More": "1.0.0"
+          "Kakao.More": "1.0.0",
+          "Kakao.Talk": "1.0.0"
         },
         "runtime": {
           "Kakao.dll": {}
@@ -125,6 +126,9 @@
         }
       },
       "Kakao.Core/1.0.0": {
+        "dependencies": {
+          "Jamesnet.Wpf": "1.0.0.8"
+        },
         "runtime": {
           "Kakao.Core.dll": {}
         }
@@ -143,7 +147,8 @@
           "Jamesnet.Wpf": "1.0.0.8",
           "Kakao.Core": "1.0.0",
           "Kakao.Friends.Birth": "1.0.0",
-          "Kakao.Friends.Favorites": "1.0.0"
+          "Kakao.Friends.Favorites": "1.0.0",
+          "Kakao.Talk": "1.0.0"
         },
         "runtime": {
           "Kakao.Friends.dll": {}
@@ -167,7 +172,8 @@
       },
       "Kakao.LayoutSupport/1.0.0": {
         "dependencies": {
-          "Jamesnet.Wpf": "1.0.0.8"
+          "Jamesnet.Wpf": "1.0.0.8",
+          "Kakao.Core": "1.0.0"
         },
         "runtime": {
           "Kakao.LayoutSupport.dll": {}
@@ -199,6 +205,25 @@
         },
         "runtime": {
           "Kakao.More.dll": {}
+        }
+      },
+      "Kakao.Talk/1.0.0": {
+        "dependencies": {
+          "Jamesnet.Wpf": "1.0.0.8",
+          "Kakao.Core": "1.0.0",
+          "Kakao.LayoutSupport": "1.0.0",
+          "Kakao.Talk.TextMessage": "1.0.0"
+        },
+        "runtime": {
+          "Kakao.Talk.dll": {}
+        }
+      },
+      "Kakao.Talk.TextMessage/1.0.0": {
+        "dependencies": {
+          "Kakao.LayoutSupport": "1.0.0"
+        },
+        "runtime": {
+          "Kakao.Talk.TextMessage.dll": {}
         }
       }
     }
@@ -332,6 +357,16 @@
       "sha512": ""
     },
     "Kakao.More/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Kakao.Talk/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Kakao.Talk.TextMessage/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

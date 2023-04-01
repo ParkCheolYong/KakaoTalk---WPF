@@ -191,6 +191,9 @@
       "Kakao.Core/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Jamesnet.Wpf": "1.0.0.8"
+        },
         "compile": {
           "bin/placeholder/Kakao.Core.dll": {}
         },
@@ -225,7 +228,8 @@
           "Jamesnet.Wpf": "1.0.0.8",
           "Kakao.Core": "1.0.0",
           "Kakao.Friends.Birth": "1.0.0",
-          "Kakao.Friends.Favorites": "1.0.0"
+          "Kakao.Friends.Favorites": "1.0.0",
+          "Kakao.Talk": "1.0.0"
         },
         "compile": {
           "bin/placeholder/Kakao.Friends.dll": {}
@@ -273,7 +277,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
-          "Jamesnet.Wpf": "1.0.0.8"
+          "Jamesnet.Wpf": "1.0.0.8",
+          "Kakao.Core": "1.0.0"
         },
         "compile": {
           "bin/placeholder/Kakao.LayoutSupport.dll": {}
@@ -332,6 +337,41 @@
         },
         "runtime": {
           "bin/placeholder/Kakao.More.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      },
+      "Kakao.Talk/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Jamesnet.Wpf": "1.0.0.8",
+          "Kakao.Core": "1.0.0",
+          "Kakao.LayoutSupport": "1.0.0",
+          "Kakao.Talk.TextMessage": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Kakao.Talk.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Kakao.Talk.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      },
+      "Kakao.Talk.TextMessage/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Kakao.LayoutSupport": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Kakao.Talk.TextMessage.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Kakao.Talk.TextMessage.dll": {}
         },
         "frameworkReferences": [
           "Microsoft.WindowsDesktop.App.WPF"
@@ -667,6 +707,16 @@
       "type": "project",
       "path": "../Kakao.More/Kakao.More.csproj",
       "msbuildProject": "../Kakao.More/Kakao.More.csproj"
+    },
+    "Kakao.Talk/1.0.0": {
+      "type": "project",
+      "path": "../Kakao.Talk/Kakao.Talk.csproj",
+      "msbuildProject": "../Kakao.Talk/Kakao.Talk.csproj"
+    },
+    "Kakao.Talk.TextMessage/1.0.0": {
+      "type": "project",
+      "path": "../Kakao.Talk.TextMessage/Kakao.Talk.TextMessage.csproj",
+      "msbuildProject": "../Kakao.Talk.TextMessage/Kakao.Talk.TextMessage.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -678,7 +728,8 @@
       "Kakao.Friends >= 1.0.0",
       "Kakao.Login >= 1.0.0",
       "Kakao.Main >= 1.0.0",
-      "Kakao.More >= 1.0.0"
+      "Kakao.More >= 1.0.0",
+      "Kakao.Talk >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -732,6 +783,9 @@
             },
             "C:\\Users\\PCY\\Desktop\\박철용\\Kakaotalk - WPF\\KakaoTalk-WPF\\src\\Kakao\\Kakao.More\\Kakao.More.csproj": {
               "projectPath": "C:\\Users\\PCY\\Desktop\\박철용\\Kakaotalk - WPF\\KakaoTalk-WPF\\src\\Kakao\\Kakao.More\\Kakao.More.csproj"
+            },
+            "C:\\Users\\PCY\\Desktop\\박철용\\Kakaotalk - WPF\\KakaoTalk-WPF\\src\\Kakao\\Kakao.Talk\\Kakao.Talk.csproj": {
+              "projectPath": "C:\\Users\\PCY\\Desktop\\박철용\\Kakaotalk - WPF\\KakaoTalk-WPF\\src\\Kakao\\Kakao.Talk\\Kakao.Talk.csproj"
             }
           }
         }

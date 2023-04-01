@@ -113,6 +113,12 @@
       "frameworks": {
         "net7.0-windows7.0": {
           "targetAlias": "net7.0-windows",
+          "dependencies": {
+            "Jamesnet.Wpf": {
+              "target": "Package",
+              "version": "[1.0.0.8, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -372,6 +378,9 @@
               },
               "C:\\Users\\PCY\\Desktop\\박철용\\Kakaotalk - WPF\\KakaoTalk-WPF\\src\\Kakao\\Kakao.Friends.Favorites\\Kakao.Friends.Favorites.csproj": {
                 "projectPath": "C:\\Users\\PCY\\Desktop\\박철용\\Kakaotalk - WPF\\KakaoTalk-WPF\\src\\Kakao\\Kakao.Friends.Favorites\\Kakao.Friends.Favorites.csproj"
+              },
+              "C:\\Users\\PCY\\Desktop\\박철용\\Kakaotalk - WPF\\KakaoTalk-WPF\\src\\Kakao\\Kakao.Talk\\Kakao.Talk.csproj": {
+                "projectPath": "C:\\Users\\PCY\\Desktop\\박철용\\Kakaotalk - WPF\\KakaoTalk-WPF\\src\\Kakao\\Kakao.Talk\\Kakao.Talk.csproj"
               }
             }
           }
@@ -440,7 +449,11 @@
         "frameworks": {
           "net7.0-windows7.0": {
             "targetAlias": "net7.0-windows",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\PCY\\Desktop\\박철용\\Kakaotalk - WPF\\KakaoTalk-WPF\\src\\Kakao\\Kakao.Core\\Kakao.Core.csproj": {
+                "projectPath": "C:\\Users\\PCY\\Desktop\\박철용\\Kakaotalk - WPF\\KakaoTalk-WPF\\src\\Kakao\\Kakao.Core\\Kakao.Core.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -697,6 +710,148 @@
         }
       }
     },
+    "C:\\Users\\PCY\\Desktop\\박철용\\Kakaotalk - WPF\\KakaoTalk-WPF\\src\\Kakao\\Kakao.Talk.TextMessage\\Kakao.Talk.TextMessage.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\PCY\\Desktop\\박철용\\Kakaotalk - WPF\\KakaoTalk-WPF\\src\\Kakao\\Kakao.Talk.TextMessage\\Kakao.Talk.TextMessage.csproj",
+        "projectName": "Kakao.Talk.TextMessage",
+        "projectPath": "C:\\Users\\PCY\\Desktop\\박철용\\Kakaotalk - WPF\\KakaoTalk-WPF\\src\\Kakao\\Kakao.Talk.TextMessage\\Kakao.Talk.TextMessage.csproj",
+        "packagesPath": "C:\\Users\\PCY\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PCY\\Desktop\\박철용\\Kakaotalk - WPF\\KakaoTalk-WPF\\src\\Kakao\\Kakao.Talk.TextMessage\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\PCY\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0-windows7.0": {
+            "targetAlias": "net7.0-windows",
+            "projectReferences": {
+              "C:\\Users\\PCY\\Desktop\\박철용\\Kakaotalk - WPF\\KakaoTalk-WPF\\src\\Kakao\\Kakao.LayoutSupport\\Kakao.LayoutSupport.csproj": {
+                "projectPath": "C:\\Users\\PCY\\Desktop\\박철용\\Kakaotalk - WPF\\KakaoTalk-WPF\\src\\Kakao\\Kakao.LayoutSupport\\Kakao.LayoutSupport.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0-windows7.0": {
+          "targetAlias": "net7.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\PCY\\Desktop\\박철용\\Kakaotalk - WPF\\KakaoTalk-WPF\\src\\Kakao\\Kakao.Talk\\Kakao.Talk.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\PCY\\Desktop\\박철용\\Kakaotalk - WPF\\KakaoTalk-WPF\\src\\Kakao\\Kakao.Talk\\Kakao.Talk.csproj",
+        "projectName": "Kakao.Talk",
+        "projectPath": "C:\\Users\\PCY\\Desktop\\박철용\\Kakaotalk - WPF\\KakaoTalk-WPF\\src\\Kakao\\Kakao.Talk\\Kakao.Talk.csproj",
+        "packagesPath": "C:\\Users\\PCY\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PCY\\Desktop\\박철용\\Kakaotalk - WPF\\KakaoTalk-WPF\\src\\Kakao\\Kakao.Talk\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\PCY\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0-windows7.0": {
+            "targetAlias": "net7.0-windows",
+            "projectReferences": {
+              "C:\\Users\\PCY\\Desktop\\박철용\\Kakaotalk - WPF\\KakaoTalk-WPF\\src\\Kakao\\Kakao.Core\\Kakao.Core.csproj": {
+                "projectPath": "C:\\Users\\PCY\\Desktop\\박철용\\Kakaotalk - WPF\\KakaoTalk-WPF\\src\\Kakao\\Kakao.Core\\Kakao.Core.csproj"
+              },
+              "C:\\Users\\PCY\\Desktop\\박철용\\Kakaotalk - WPF\\KakaoTalk-WPF\\src\\Kakao\\Kakao.LayoutSupport\\Kakao.LayoutSupport.csproj": {
+                "projectPath": "C:\\Users\\PCY\\Desktop\\박철용\\Kakaotalk - WPF\\KakaoTalk-WPF\\src\\Kakao\\Kakao.LayoutSupport\\Kakao.LayoutSupport.csproj"
+              },
+              "C:\\Users\\PCY\\Desktop\\박철용\\Kakaotalk - WPF\\KakaoTalk-WPF\\src\\Kakao\\Kakao.Talk.TextMessage\\Kakao.Talk.TextMessage.csproj": {
+                "projectPath": "C:\\Users\\PCY\\Desktop\\박철용\\Kakaotalk - WPF\\KakaoTalk-WPF\\src\\Kakao\\Kakao.Talk.TextMessage\\Kakao.Talk.TextMessage.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0-windows7.0": {
+          "targetAlias": "net7.0-windows",
+          "dependencies": {
+            "Jamesnet.Wpf": {
+              "target": "Package",
+              "version": "[1.0.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "C:\\Users\\PCY\\Desktop\\박철용\\Kakaotalk - WPF\\KakaoTalk-WPF\\src\\Kakao\\Kakao\\Kakao.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -744,6 +899,9 @@
               },
               "C:\\Users\\PCY\\Desktop\\박철용\\Kakaotalk - WPF\\KakaoTalk-WPF\\src\\Kakao\\Kakao.More\\Kakao.More.csproj": {
                 "projectPath": "C:\\Users\\PCY\\Desktop\\박철용\\Kakaotalk - WPF\\KakaoTalk-WPF\\src\\Kakao\\Kakao.More\\Kakao.More.csproj"
+              },
+              "C:\\Users\\PCY\\Desktop\\박철용\\Kakaotalk - WPF\\KakaoTalk-WPF\\src\\Kakao\\Kakao.Talk\\Kakao.Talk.csproj": {
+                "projectPath": "C:\\Users\\PCY\\Desktop\\박철용\\Kakaotalk - WPF\\KakaoTalk-WPF\\src\\Kakao\\Kakao.Talk\\Kakao.Talk.csproj"
               }
             }
           }

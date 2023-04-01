@@ -111,13 +111,17 @@
         }
       },
       "Kakao.Core/1.0.0": {
+        "dependencies": {
+          "Jamesnet.Wpf": "1.0.0.8"
+        },
         "runtime": {
           "Kakao.Core.dll": {}
         }
       },
       "Kakao.LayoutSupport/1.0.0": {
         "dependencies": {
-          "Jamesnet.Wpf": "1.0.0.8"
+          "Jamesnet.Wpf": "1.0.0.8",
+          "Kakao.Core": "1.0.0"
         },
         "runtime": {
           "Kakao.LayoutSupport.dll": {}

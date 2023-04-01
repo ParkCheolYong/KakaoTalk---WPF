@@ -1,8 +1,20 @@
 {
   "version": 2,
-  "dgSpecHash": "vmCU0GTBGe78m8SfO+XjdTsbu+OKp7gjJZTDuFxfkCKLjG1jP7X7J4yq50y3xCV8bn3hWn1AbZNZrM4v/aCTkQ==",
+  "dgSpecHash": "Gj95zQC5DQdlVHD9UNzp5gnaOg01SCAbH7/BDuuS/zd8nZmCPRQROslkkmbeF72yXdTaAnAppeXUnNswrvovPQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\PCY\\Desktop\\박철용\\Kakaotalk - WPF\\KakaoTalk-WPF\\src\\Kakao\\Kakao.Core\\Kakao.Core.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\PCY\\.nuget\\packages\\communitytoolkit.mvvm\\8.1.0\\communitytoolkit.mvvm.8.1.0.nupkg.sha512",
+    "C:\\Users\\PCY\\.nuget\\packages\\jamesnet.wpf\\1.0.0.8\\jamesnet.wpf.1.0.0.8.nupkg.sha512",
+    "C:\\Users\\PCY\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.31\\microsoft.xaml.behaviors.wpf.1.1.31.nupkg.sha512",
+    "C:\\Users\\PCY\\.nuget\\packages\\prism.core\\8.1.97\\prism.core.8.1.97.nupkg.sha512",
+    "C:\\Users\\PCY\\.nuget\\packages\\prism.unity\\8.1.97\\prism.unity.8.1.97.nupkg.sha512",
+    "C:\\Users\\PCY\\.nuget\\packages\\prism.wpf\\8.1.97\\prism.wpf.8.1.97.nupkg.sha512",
+    "C:\\Users\\PCY\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\PCY\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.2\\system.threading.tasks.extensions.4.5.2.nupkg.sha512",
+    "C:\\Users\\PCY\\.nuget\\packages\\unity.abstractions\\5.11.7\\unity.abstractions.5.11.7.nupkg.sha512",
+    "C:\\Users\\PCY\\.nuget\\packages\\unity.container\\5.11.11\\unity.container.5.11.11.nupkg.sha512",
+    "C:\\Users\\PCY\\.nuget\\packages\\wpfautogrid.core\\1.5.1\\wpfautogrid.core.1.5.1.nupkg.sha512"
+  ],
   "logs": []
 }

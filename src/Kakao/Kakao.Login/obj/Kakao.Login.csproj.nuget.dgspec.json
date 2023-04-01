@@ -42,6 +42,12 @@
       "frameworks": {
         "net7.0-windows7.0": {
           "targetAlias": "net7.0-windows",
+          "dependencies": {
+            "Jamesnet.Wpf": {
+              "target": "Package",
+              "version": "[1.0.0.8, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -91,7 +97,11 @@
         "frameworks": {
           "net7.0-windows7.0": {
             "targetAlias": "net7.0-windows",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\PCY\\Desktop\\박철용\\Kakaotalk - WPF\\KakaoTalk-WPF\\src\\Kakao\\Kakao.Core\\Kakao.Core.csproj": {
+                "projectPath": "C:\\Users\\PCY\\Desktop\\박철용\\Kakaotalk - WPF\\KakaoTalk-WPF\\src\\Kakao\\Kakao.Core\\Kakao.Core.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
