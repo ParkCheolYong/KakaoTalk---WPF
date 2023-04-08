@@ -376,6 +376,23 @@
         "frameworkReferences": [
           "Microsoft.WindowsDesktop.App.WPF"
         ]
+      },
+      "Kakao.Tests/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Jamesnet.Wpf": "1.0.0.8",
+          "Kakao.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Kakao.Tests.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Kakao.Tests.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
       }
     }
   },
@@ -717,6 +734,11 @@
       "type": "project",
       "path": "../Kakao.Talk.TextMessage/Kakao.Talk.TextMessage.csproj",
       "msbuildProject": "../Kakao.Talk.TextMessage/Kakao.Talk.TextMessage.csproj"
+    },
+    "Kakao.Tests/1.0.0": {
+      "type": "project",
+      "path": "../Kakao.Tests/Kakao.Tests.csproj",
+      "msbuildProject": "../Kakao.Tests/Kakao.Tests.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -729,7 +751,8 @@
       "Kakao.Login >= 1.0.0",
       "Kakao.Main >= 1.0.0",
       "Kakao.More >= 1.0.0",
-      "Kakao.Talk >= 1.0.0"
+      "Kakao.Talk >= 1.0.0",
+      "Kakao.Tests >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -786,6 +809,9 @@
             },
             "C:\\Users\\PCY\\Desktop\\박철용\\Kakaotalk - WPF\\KakaoTalk-WPF\\src\\Kakao\\Kakao.Talk\\Kakao.Talk.csproj": {
               "projectPath": "C:\\Users\\PCY\\Desktop\\박철용\\Kakaotalk - WPF\\KakaoTalk-WPF\\src\\Kakao\\Kakao.Talk\\Kakao.Talk.csproj"
+            },
+            "C:\\Users\\PCY\\Desktop\\박철용\\Kakaotalk - WPF\\KakaoTalk-WPF\\src\\Kakao\\Kakao.Tests\\Kakao.Tests.csproj": {
+              "projectPath": "C:\\Users\\PCY\\Desktop\\박철용\\Kakaotalk - WPF\\KakaoTalk-WPF\\src\\Kakao\\Kakao.Tests\\Kakao.Tests.csproj"
             }
           }
         }
