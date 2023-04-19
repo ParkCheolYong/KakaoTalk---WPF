@@ -1,10 +1,10 @@
-using KakaoWeb.Shared;
+using KakaoWeb.Shared.Models;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace KakaoWeb.Server.Controllers
 {
-	[Authorize]
+    [Authorize]
 	[ApiController]
 	[Route("[controller]")]
 	public class WeatherForecastController : ControllerBase

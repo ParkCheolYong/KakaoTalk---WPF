@@ -50,3 +50,5 @@ C:\Users\PCY\Desktop\박철용\Kakaotalk - WPF\KakaoTalk-WPF\src\Kakao\Kakao.Fri
 C:\Users\PCY\Desktop\박철용\Kakaotalk - WPF\KakaoTalk-WPF\src\Kakao\Kakao.Friends\bin\Debug\net7.0-windows\Kakao.Talk.pdb
 C:\Users\PCY\Desktop\박철용\Kakaotalk - WPF\KakaoTalk-WPF\src\Kakao\Kakao.Friends\bin\Debug\net7.0-windows\Kakao.Talk.TextMessage.dll
 C:\Users\PCY\Desktop\박철용\Kakaotalk - WPF\KakaoTalk-WPF\src\Kakao\Kakao.Friends\bin\Debug\net7.0-windows\Kakao.Talk.TextMessage.pdb
+C:\Users\PCY\Desktop\박철용\Kakaotalk - WPF\KakaoTalk-WPF\src\Kakao\Kakao.Friends\bin\Debug\net7.0-windows\Kakao.Receiver.dll
+C:\Users\PCY\Desktop\박철용\Kakaotalk - WPF\KakaoTalk-WPF\src\Kakao\Kakao.Friends\bin\Debug\net7.0-windows\Kakao.Receiver.pdb

@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET7_0;NETCOREAPP
 
-7809021357
+8-1218120705
 
-101634134439
+111046022068
 2081655983619
-Themes\Generic.xaml;Themes\Units\ExpandButton.xaml;Themes\Units\FriendsBox.xaml;Themes\Units\PlaceholderPasswordBox.xaml;Themes\Units\PlaceholderTextBox.xaml;Themes\Units\SendTextBox.xaml;Themes\Units\TaskBarButton.xaml;
+Themes\Generic.xaml;Themes\Units\ExpandButton.xaml;Themes\Units\FriendsBox.xaml;Themes\Units\PlaceholderPasswordBox.xaml;Themes\Units\PlaceholderTextBox.xaml;Themes\Units\SendTextBox.xaml;Themes\Units\TalkTaskBarButton.xaml;Themes\Units\TaskBarButton.xaml;
 
 True
 

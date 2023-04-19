@@ -24,3 +24,4 @@ C:\Users\PCY\Desktop\박철용\Kakaotalk - WPF\KakaoTalk-WPF\src\Kakao\Kakao.Lay
 C:\Users\PCY\Desktop\박철용\Kakaotalk - WPF\KakaoTalk-WPF\src\Kakao\Kakao.LayoutSupport\bin\Debug\net7.0-windows\Kakao.Core.dll
 C:\Users\PCY\Desktop\박철용\Kakaotalk - WPF\KakaoTalk-WPF\src\Kakao\Kakao.LayoutSupport\bin\Debug\net7.0-windows\Kakao.Core.pdb
 C:\Users\PCY\Desktop\박철용\Kakaotalk - WPF\KakaoTalk-WPF\src\Kakao\Kakao.LayoutSupport\obj\Debug\net7.0-windows\Kakao.LayoutSupport.csproj.CopyComplete
+C:\Users\PCY\Desktop\박철용\Kakaotalk - WPF\KakaoTalk-WPF\src\Kakao\Kakao.LayoutSupport\obj\Debug\net7.0-windows\Themes\Units\TalkTaskBarButton.baml

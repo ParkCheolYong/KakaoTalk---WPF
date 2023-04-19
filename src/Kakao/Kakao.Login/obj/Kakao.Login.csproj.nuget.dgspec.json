@@ -191,6 +191,10 @@
             "Jamesnet.Wpf": {
               "target": "Package",
               "version": "[1.0.0.8, )"
+            },
+            "Microsoft.Web.WebView2": {
+              "target": "Package",
+              "version": "[1.0.1661.34, )"
             }
           },
           "imports": [

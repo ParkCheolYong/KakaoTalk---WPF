@@ -6,17 +6,9 @@ using Jamesnet.Wpf.Mvvm;
 using Kakao.Core.Args;
 using Kakao.Core.Events;
 using Kakao.Core.Interfaces;
-using Kakao.Core.Names;
 using Kakao.Core.Talking;
-using Prism.Ioc;
-using Prism.Regions;
-using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows;
-using Unity.Resolution;
 
 namespace Kakao.Tests.Local.ViewModels
 {
@@ -39,7 +31,7 @@ namespace Kakao.Tests.Local.ViewModels
             _eventHub = eventHub;
             _talkWindowManager = talkWindowManager;
 
-            _eventHub.Subscribe<RefreshTalkWindowEvent, RefreshTalkWindowArgs>((args) => Refresh());
+            _eventHub.Subscribe<TalkWindowRefreshEvent, TalkWindowRefreshArgs>((args) => Refresh());
         }
 
         public void OnLoaded(IViewable view)

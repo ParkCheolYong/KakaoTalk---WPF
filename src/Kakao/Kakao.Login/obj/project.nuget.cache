@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "erPS3L0hKbsfWWVi3T4HqyCwtGF3qht+0YH9NmSg7tx9HkqTg09jKYJCpNH/STDbKbOyAlzxJuW0Nf7A1KHz9g==",
+  "dgSpecHash": "eK2+PgDexQdVVvYbdDRKyy6E3bbK7KoovsqXk2MrDK/l5Lr75QUvsRjmJo7G5Cbkyto7IUyEV4vXzrNN0ufArw==",
   "success": true,
   "projectFilePath": "C:\\Users\\PCY\\Desktop\\박철용\\Kakaotalk - WPF\\KakaoTalk-WPF\\src\\Kakao\\Kakao.Login\\Kakao.Login.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PCY\\.nuget\\packages\\communitytoolkit.mvvm\\8.1.0\\communitytoolkit.mvvm.8.1.0.nupkg.sha512",
     "C:\\Users\\PCY\\.nuget\\packages\\jamesnet.wpf\\1.0.0.8\\jamesnet.wpf.1.0.0.8.nupkg.sha512",
+    "C:\\Users\\PCY\\.nuget\\packages\\microsoft.web.webview2\\1.0.1661.34\\microsoft.web.webview2.1.0.1661.34.nupkg.sha512",
     "C:\\Users\\PCY\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.31\\microsoft.xaml.behaviors.wpf.1.1.31.nupkg.sha512",
     "C:\\Users\\PCY\\.nuget\\packages\\prism.core\\8.1.97\\prism.core.8.1.97.nupkg.sha512",
     "C:\\Users\\PCY\\.nuget\\packages\\prism.unity\\8.1.97\\prism.unity.8.1.97.nupkg.sha512",
